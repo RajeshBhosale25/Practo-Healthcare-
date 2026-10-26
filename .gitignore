@@ -12,4 +12,3 @@ models/
 *.egg-info/
 .DS_Store
 artifacts/runtime.jsonl
-(.venv) PS F:\Capstone project>
