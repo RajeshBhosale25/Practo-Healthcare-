@@ -1,0 +1,14 @@
+{
+  "source_id": "POL-SECOND-OPINION-011",
+  "title": "Second Opinion Process (Synthetic)",
+  "owner": "Capstone Policy Team",
+  "effective_date": "2026-01-01",
+  "review_date": "2027-01-01",
+  "version": "1.0",
+  "access_classification": "public",
+  "status": "current",
+  "source_location": "data/policies/second-opinion.json",
+  "synthetic": true,
+  "topic": "second-opinion-process",
+  "text": "Synthetic demo policy: patients may book an appointment with another qualified clinician to request a second opinion. Patients should ask the clinic what records or reports to bring. The support agent does not compare diagnoses or recommend a medical decision."
+}

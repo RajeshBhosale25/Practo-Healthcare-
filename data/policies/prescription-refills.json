@@ -1,0 +1,14 @@
+{
+  "source_id": "POL-REFILL-005",
+  "title": "Prescription Refill Policy (Synthetic)",
+  "owner": "Capstone Policy Team",
+  "effective_date": "2026-01-01",
+  "review_date": "2027-01-01",
+  "version": "1.0",
+  "access_classification": "public",
+  "status": "current",
+  "source_location": "data/policies/prescription-refills.json",
+  "synthetic": true,
+  "topic": "prescription-refill",
+  "text": "Synthetic demo policy: refill requests are reviewed by a qualified clinician and are not automatically approved. The clinic may ask the patient to schedule a review before issuing a refill. This support service cannot make medication or prescription decisions."
+}

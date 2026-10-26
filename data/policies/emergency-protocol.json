@@ -1,0 +1,14 @@
+{
+  "source_id": "POL-EMERGENCY-008",
+  "title": "Emergency Visit Protocol (Synthetic)",
+  "owner": "Capstone Policy Team",
+  "effective_date": "2026-01-01",
+  "review_date": "2027-01-01",
+  "version": "1.0",
+  "access_classification": "public",
+  "status": "current",
+  "source_location": "data/policies/emergency-protocol.json",
+  "synthetic": true,
+  "topic": "emergency-visit-protocol",
+  "text": "Synthetic demo policy: people who believe they may be experiencing an emergency should contact local emergency services or go to the nearest emergency department. This booking-support service is not an emergency-response or triage service. Do not wait for an appointment-status response when urgent help is needed."
+}

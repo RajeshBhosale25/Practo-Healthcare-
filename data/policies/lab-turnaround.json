@@ -1,0 +1,14 @@
+{
+  "source_id": "POL-LAB-006",
+  "title": "Lab Test Turnaround Times (Synthetic)",
+  "owner": "Capstone Policy Team",
+  "effective_date": "2026-01-01",
+  "review_date": "2027-01-01",
+  "version": "1.0",
+  "access_classification": "public",
+  "status": "current",
+  "source_location": "data/policies/lab-turnaround.json",
+  "synthetic": true,
+  "topic": "lab-test-turnaround",
+  "text": "Synthetic demo policy: routine laboratory results are generally expected within two to five business days in this sample policy. Specialized tests may take longer, and the laboratory should provide the current estimate. Result interpretation must be directed to a qualified clinician."
+}

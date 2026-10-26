@@ -1,0 +1,14 @@
+{
+  "source_id": "POL-TELEMED-007",
+  "title": "Telemedicine Eligibility (Synthetic)",
+  "owner": "Capstone Policy Team",
+  "effective_date": "2026-01-01",
+  "review_date": "2027-01-01",
+  "version": "1.0",
+  "access_classification": "public",
+  "status": "current",
+  "source_location": "data/policies/telemedicine-eligibility.json",
+  "synthetic": true,
+  "topic": "telemedicine-eligibility",
+  "text": "Synthetic demo policy: remote consultation availability depends on specialty, clinician, and the purpose of the visit. The clinic confirms eligibility and provides the secure joining instructions after booking. Urgent or emergency concerns should not be routed through a routine telemedicine booking."
+}

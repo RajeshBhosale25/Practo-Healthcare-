@@ -1,0 +1,402 @@
+[
+  {
+    "record_id": "APT-0001",
+    "category": "Orthopedics",
+    "status": "Scheduled",
+    "consultation_fee_inr": 1550,
+    "days_since_created": 7,
+    "follow_up_required": false
+  },
+  {
+    "record_id": "APT-0002",
+    "category": "Pediatrics",
+    "status": "Scheduled",
+    "consultation_fee_inr": 900,
+    "days_since_created": 21,
+    "follow_up_required": false
+  },
+  {
+    "record_id": "APT-0003",
+    "category": "General Medicine",
+    "status": "Completed",
+    "consultation_fee_inr": 650,
+    "days_since_created": 1,
+    "follow_up_required": false
+  },
+  {
+    "record_id": "APT-0004",
+    "category": "Cardiology",
+    "status": "No-Show",
+    "consultation_fee_inr": 1400,
+    "days_since_created": 29,
+    "follow_up_required": false
+  },
+  {
+    "record_id": "APT-0005",
+    "category": "Cardiology",
+    "status": "Scheduled",
+    "consultation_fee_inr": 1950,
+    "days_since_created": 19,
+    "follow_up_required": true
+  },
+  {
+    "record_id": "APT-0006",
+    "category": "General Medicine",
+    "status": "No-Show",
+    "consultation_fee_inr": 750,
+    "days_since_created": 8,
+    "follow_up_required": true
+  },
+  {
+    "record_id": "APT-0007",
+    "category": "Cardiology",
+    "status": "Scheduled",
+    "consultation_fee_inr": 1650,
+    "days_since_created": 19,
+    "follow_up_required": false
+  },
+  {
+    "record_id": "APT-0008",
+    "category": "General Medicine",
+    "status": "Scheduled",
+    "consultation_fee_inr": 650,
+    "days_since_created": 13,
+    "follow_up_required": false
+  },
+  {
+    "record_id": "APT-0009",
+    "category": "Cardiology",
+    "status": "Scheduled",
+    "consultation_fee_inr": 850,
+    "days_since_created": 27,
+    "follow_up_required": true
+  },
+  {
+    "record_id": "APT-0010",
+    "category": "Dermatology",
+    "status": "Scheduled",
+    "consultation_fee_inr": 1350,
+    "days_since_created": 27,
+    "follow_up_required": false
+  },
+  {
+    "record_id": "APT-0011",
+    "category": "Pediatrics",
+    "status": "Completed",
+    "consultation_fee_inr": 950,
+    "days_since_created": 21,
+    "follow_up_required": false
+  },
+  {
+    "record_id": "APT-0012",
+    "category": "General Medicine",
+    "status": "Cancelled",
+    "consultation_fee_inr": 800,
+    "days_since_created": 18,
+    "follow_up_required": false
+  },
+  {
+    "record_id": "APT-0013",
+    "category": "General Medicine",
+    "status": "No-Show",
+    "consultation_fee_inr": 700,
+    "days_since_created": 17,
+    "follow_up_required": false
+  },
+  {
+    "record_id": "APT-0014",
+    "category": "Cardiology",
+    "status": "Rescheduled",
+    "consultation_fee_inr": 1300,
+    "days_since_created": 13,
+    "follow_up_required": false
+  },
+  {
+    "record_id": "APT-0015",
+    "category": "Cardiology",
+    "status": "Completed",
+    "consultation_fee_inr": 1650,
+    "days_since_created": 21,
+    "follow_up_required": false
+  },
+  {
+    "record_id": "APT-0016",
+    "category": "Dermatology",
+    "status": "No-Show",
+    "consultation_fee_inr": 1100,
+    "days_since_created": 24,
+    "follow_up_required": false
+  },
+  {
+    "record_id": "APT-0017",
+    "category": "General Medicine",
+    "status": "Rescheduled",
+    "consultation_fee_inr": 650,
+    "days_since_created": 6,
+    "follow_up_required": true
+  },
+  {
+    "record_id": "APT-0018",
+    "category": "General Medicine",
+    "status": "Scheduled",
+    "consultation_fee_inr": 400,
+    "days_since_created": 9,
+    "follow_up_required": false
+  },
+  {
+    "record_id": "APT-0019",
+    "category": "Pediatrics",
+    "status": "Completed",
+    "consultation_fee_inr": 950,
+    "days_since_created": 6,
+    "follow_up_required": true
+  },
+  {
+    "record_id": "APT-0020",
+    "category": "Dermatology",
+    "status": "Cancelled",
+    "consultation_fee_inr": 550,
+    "days_since_created": 11,
+    "follow_up_required": false
+  },
+  {
+    "record_id": "APT-0021",
+    "category": "Orthopedics",
+    "status": "Scheduled",
+    "consultation_fee_inr": 1700,
+    "days_since_created": 17,
+    "follow_up_required": false
+  },
+  {
+    "record_id": "APT-0022",
+    "category": "Orthopedics",
+    "status": "Scheduled",
+    "consultation_fee_inr": 1150,
+    "days_since_created": 20,
+    "follow_up_required": true
+  },
+  {
+    "record_id": "APT-0023",
+    "category": "Dermatology",
+    "status": "Scheduled",
+    "consultation_fee_inr": 650,
+    "days_since_created": 11,
+    "follow_up_required": false
+  },
+  {
+    "record_id": "APT-0024",
+    "category": "General Medicine",
+    "status": "Scheduled",
+    "consultation_fee_inr": 350,
+    "days_since_created": 30,
+    "follow_up_required": false
+  },
+  {
+    "record_id": "APT-0025",
+    "category": "Cardiology",
+    "status": "No-Show",
+    "consultation_fee_inr": 1000,
+    "days_since_created": 12,
+    "follow_up_required": false
+  },
+  {
+    "record_id": "APT-0026",
+    "category": "General Medicine",
+    "status": "Scheduled",
+    "consultation_fee_inr": 400,
+    "days_since_created": 11,
+    "follow_up_required": false
+  },
+  {
+    "record_id": "APT-0027",
+    "category": "General Medicine",
+    "status": "Completed",
+    "consultation_fee_inr": 500,
+    "days_since_created": 25,
+    "follow_up_required": false
+  },
+  {
+    "record_id": "APT-0028",
+    "category": "Dermatology",
+    "status": "Scheduled",
+    "consultation_fee_inr": 1250,
+    "days_since_created": 11,
+    "follow_up_required": false
+  },
+  {
+    "record_id": "APT-0029",
+    "category": "Cardiology",
+    "status": "Completed",
+    "consultation_fee_inr": 1300,
+    "days_since_created": 1,
+    "follow_up_required": false
+  },
+  {
+    "record_id": "APT-0030",
+    "category": "Pediatrics",
+    "status": "Scheduled",
+    "consultation_fee_inr": 650,
+    "days_since_created": 24,
+    "follow_up_required": true
+  },
+  {
+    "record_id": "APT-0031",
+    "category": "Dermatology",
+    "status": "Completed",
+    "consultation_fee_inr": 1200,
+    "days_since_created": 25,
+    "follow_up_required": false
+  },
+  {
+    "record_id": "APT-0032",
+    "category": "General Medicine",
+    "status": "Scheduled",
+    "consultation_fee_inr": 550,
+    "days_since_created": 3,
+    "follow_up_required": false
+  },
+  {
+    "record_id": "APT-0033",
+    "category": "Dermatology",
+    "status": "Cancelled",
+    "consultation_fee_inr": 1350,
+    "days_since_created": 9,
+    "follow_up_required": true
+  },
+  {
+    "record_id": "APT-0034",
+    "category": "Cardiology",
+    "status": "Cancelled",
+    "consultation_fee_inr": 1900,
+    "days_since_created": 29,
+    "follow_up_required": false
+  },
+  {
+    "record_id": "APT-0035",
+    "category": "Pediatrics",
+    "status": "Completed",
+    "consultation_fee_inr": 650,
+    "days_since_created": 16,
+    "follow_up_required": false
+  },
+  {
+    "record_id": "APT-0036",
+    "category": "Orthopedics",
+    "status": "Rescheduled",
+    "consultation_fee_inr": 1200,
+    "days_since_created": 29,
+    "follow_up_required": false
+  },
+  {
+    "record_id": "APT-0037",
+    "category": "General Medicine",
+    "status": "Rescheduled",
+    "consultation_fee_inr": 500,
+    "days_since_created": 23,
+    "follow_up_required": true
+  },
+  {
+    "record_id": "APT-0038",
+    "category": "General Medicine",
+    "status": "Completed",
+    "consultation_fee_inr": 600,
+    "days_since_created": 13,
+    "follow_up_required": false
+  },
+  {
+    "record_id": "APT-0039",
+    "category": "Dermatology",
+    "status": "Scheduled",
+    "consultation_fee_inr": 1150,
+    "days_since_created": 19,
+    "follow_up_required": false
+  },
+  {
+    "record_id": "APT-0040",
+    "category": "Pediatrics",
+    "status": "Cancelled",
+    "consultation_fee_inr": 500,
+    "days_since_created": 10,
+    "follow_up_required": false
+  },
+  {
+    "record_id": "APT-0041",
+    "category": "General Medicine",
+    "status": "Rescheduled",
+    "consultation_fee_inr": 500,
+    "days_since_created": 26,
+    "follow_up_required": true
+  },
+  {
+    "record_id": "APT-0042",
+    "category": "General Medicine",
+    "status": "Cancelled",
+    "consultation_fee_inr": 600,
+    "days_since_created": 7,
+    "follow_up_required": false
+  },
+  {
+    "record_id": "APT-0043",
+    "category": "General Medicine",
+    "status": "Completed",
+    "consultation_fee_inr": 600,
+    "days_since_created": 18,
+    "follow_up_required": true
+  },
+  {
+    "record_id": "APT-0044",
+    "category": "General Medicine",
+    "status": "Rescheduled",
+    "consultation_fee_inr": 650,
+    "days_since_created": 14,
+    "follow_up_required": false
+  },
+  {
+    "record_id": "APT-0045",
+    "category": "Orthopedics",
+    "status": "Cancelled",
+    "consultation_fee_inr": 1700,
+    "days_since_created": 10,
+    "follow_up_required": false
+  },
+  {
+    "record_id": "APT-0046",
+    "category": "General Medicine",
+    "status": "Scheduled",
+    "consultation_fee_inr": 300,
+    "days_since_created": 0,
+    "follow_up_required": false
+  },
+  {
+    "record_id": "APT-0047",
+    "category": "Cardiology",
+    "status": "Completed",
+    "consultation_fee_inr": 1700,
+    "days_since_created": 22,
+    "follow_up_required": false
+  },
+  {
+    "record_id": "APT-0048",
+    "category": "General Medicine",
+    "status": "Completed",
+    "consultation_fee_inr": 650,
+    "days_since_created": 28,
+    "follow_up_required": true
+  },
+  {
+    "record_id": "APT-0049",
+    "category": "General Medicine",
+    "status": "Rescheduled",
+    "consultation_fee_inr": 600,
+    "days_since_created": 10,
+    "follow_up_required": false
+  },
+  {
+    "record_id": "APT-0050",
+    "category": "Pediatrics",
+    "status": "Rescheduled",
+    "consultation_fee_inr": 400,
+    "days_since_created": 11,
+    "follow_up_required": false
+  }
+]

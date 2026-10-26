@@ -1,0 +1,14 @@
+{
+  "source_id": "POL-FOLLOWUP-010",
+  "title": "Follow-up Visit Discount (Synthetic)",
+  "owner": "Capstone Policy Team",
+  "effective_date": "2026-01-01",
+  "review_date": "2027-01-01",
+  "version": "1.0",
+  "access_classification": "public",
+  "status": "current",
+  "source_location": "data/policies/follow-up-discount.json",
+  "synthetic": true,
+  "topic": "follow-up-visit-discount",
+  "text": "Synthetic demo policy: a follow-up visit may qualify for a reduced consultation fee when booked within 30 days with the same specialty. The clinic determines eligibility and confirms the applicable amount at booking. No discount is guaranteed by this sample policy."
+}

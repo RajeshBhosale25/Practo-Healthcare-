@@ -1,0 +1,45 @@
+{
+  "model": "sentence-transformers/all-MiniLM-L6-v2",
+  "recommended_strategy": "sentence",
+  "recommendation_basis": "Highest document-level macro recall on the shared five-query set; macro precision breaks ties.",
+  "comparison": {
+    "fixed": {
+      "macro_precision": 0.5,
+      "macro_recall": 1.0
+    },
+    "sentence": {
+      "macro_precision": 1.0,
+      "macro_recall": 1.0
+    }
+  },
+  "strategies": {
+    "fixed": {
+      "threshold": 0.3857234716415405,
+      "measurements": {
+        "in_scope": [
+          0.7247574329376221,
+          0.5147671699523926,
+          0.592518150806427
+        ],
+        "out_of_scope": [
+          0.2566797733306885,
+          0.10987120866775513
+        ]
+      }
+    },
+    "sentence": {
+      "threshold": 0.38912782073020935,
+      "measurements": {
+        "in_scope": [
+          0.7970193028450012,
+          0.503322958946228,
+          0.6651685237884521
+        ],
+        "out_of_scope": [
+          0.2749326825141907,
+          0.13392853736877441
+        ]
+      }
+    }
+  }
+}

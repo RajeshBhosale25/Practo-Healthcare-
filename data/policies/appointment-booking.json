@@ -1,0 +1,14 @@
+{
+  "source_id": "POL-BOOKING-001",
+  "title": "Appointment Booking Policy (Synthetic)",
+  "owner": "Capstone Policy Team",
+  "effective_date": "2026-01-01",
+  "review_date": "2027-01-01",
+  "version": "1.0",
+  "access_classification": "public",
+  "status": "current",
+  "source_location": "data/policies/appointment-booking.json",
+  "synthetic": true,
+  "topic": "appointment-booking",
+  "text": "Synthetic demo policy: patients may request an appointment through the clinic's listed booking channels. A booking is confirmed only after the clinic returns a confirmation reference. Patients should provide only the information required to arrange the visit."
+}

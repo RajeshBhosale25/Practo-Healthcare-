@@ -1,0 +1,14 @@
+{
+  "source_id": "POL-PRIVACY-009",
+  "title": "Patient Data Privacy Policy (Synthetic)",
+  "owner": "Capstone Policy Team",
+  "effective_date": "2026-01-01",
+  "review_date": "2027-01-01",
+  "version": "1.0",
+  "access_classification": "public",
+  "status": "current",
+  "source_location": "data/policies/patient-data-privacy.json",
+  "synthetic": true,
+  "topic": "patient-data-privacy",
+  "text": "Synthetic demo policy: only the minimum information needed to support a request should be collected and retained. Appointment information may be disclosed only after the configured authorization check succeeds. This prototype uses fabricated records and must not receive real patient data."
+}

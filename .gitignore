@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.env
+.env.*
+!.env.example
+.chroma/
+models/
+*.py[cod]
+*.log
+*.egg-info/
+.DS_Store
+artifacts/runtime.jsonl
+(.venv) PS F:\Capstone project>

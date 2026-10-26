@@ -1,0 +1,171 @@
+{
+  "fixed": {
+    "collection": "policy_fixed_overlap_v1",
+    "per_query": [
+      {
+        "query": "How can I book an appointment?",
+        "relevant_document_ids": [
+          "POL-BOOKING-001"
+        ],
+        "retrieved_document_ids": [
+          "POL-BOOKING-001",
+          "POL-FEES-003"
+        ],
+        "arithmetic": "precision=1/2=0.500; recall=1/1=1.000",
+        "relevant_retrieved": 1,
+        "retrieved_documents": 2,
+        "relevant_documents": 1,
+        "precision": 0.5,
+        "recall": 1.0
+      },
+      {
+        "query": "What is the cancellation or rescheduling window?",
+        "relevant_document_ids": [
+          "POL-CANCEL-002"
+        ],
+        "retrieved_document_ids": [
+          "POL-BOOKING-001",
+          "POL-CANCEL-002"
+        ],
+        "arithmetic": "precision=1/2=0.500; recall=1/1=1.000",
+        "relevant_retrieved": 1,
+        "retrieved_documents": 2,
+        "relevant_documents": 1,
+        "precision": 0.5,
+        "recall": 1.0
+      },
+      {
+        "query": "How much does a specialty consultation cost?",
+        "relevant_document_ids": [
+          "POL-FEES-003"
+        ],
+        "retrieved_document_ids": [
+          "POL-FEES-003",
+          "POL-FOLLOWUP-010"
+        ],
+        "arithmetic": "precision=1/2=0.500; recall=1/1=1.000",
+        "relevant_retrieved": 1,
+        "retrieved_documents": 2,
+        "relevant_documents": 1,
+        "precision": 0.5,
+        "recall": 1.0
+      },
+      {
+        "query": "How does an insurance claim work?",
+        "relevant_document_ids": [
+          "POL-INSURANCE-004"
+        ],
+        "retrieved_document_ids": [
+          "POL-FOLLOWUP-010",
+          "POL-INSURANCE-004"
+        ],
+        "arithmetic": "precision=1/2=0.500; recall=1/1=1.000",
+        "relevant_retrieved": 1,
+        "retrieved_documents": 2,
+        "relevant_documents": 1,
+        "precision": 0.5,
+        "recall": 1.0
+      },
+      {
+        "query": "Can you renew my prescription?",
+        "relevant_document_ids": [
+          "POL-REFILL-005"
+        ],
+        "retrieved_document_ids": [
+          "POL-FOLLOWUP-010",
+          "POL-REFILL-005"
+        ],
+        "arithmetic": "precision=1/2=0.500; recall=1/1=1.000",
+        "relevant_retrieved": 1,
+        "retrieved_documents": 2,
+        "relevant_documents": 1,
+        "precision": 0.5,
+        "recall": 1.0
+      }
+    ],
+    "macro_precision": 0.5,
+    "macro_recall": 1.0
+  },
+  "sentence": {
+    "collection": "policy_sentence_v1",
+    "per_query": [
+      {
+        "query": "How can I book an appointment?",
+        "relevant_document_ids": [
+          "POL-BOOKING-001"
+        ],
+        "retrieved_document_ids": [
+          "POL-BOOKING-001"
+        ],
+        "arithmetic": "precision=1/1=1.000; recall=1/1=1.000",
+        "relevant_retrieved": 1,
+        "retrieved_documents": 1,
+        "relevant_documents": 1,
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      {
+        "query": "What is the cancellation or rescheduling window?",
+        "relevant_document_ids": [
+          "POL-CANCEL-002"
+        ],
+        "retrieved_document_ids": [
+          "POL-CANCEL-002"
+        ],
+        "arithmetic": "precision=1/1=1.000; recall=1/1=1.000",
+        "relevant_retrieved": 1,
+        "retrieved_documents": 1,
+        "relevant_documents": 1,
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      {
+        "query": "How much does a specialty consultation cost?",
+        "relevant_document_ids": [
+          "POL-FEES-003"
+        ],
+        "retrieved_document_ids": [
+          "POL-FEES-003"
+        ],
+        "arithmetic": "precision=1/1=1.000; recall=1/1=1.000",
+        "relevant_retrieved": 1,
+        "retrieved_documents": 1,
+        "relevant_documents": 1,
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      {
+        "query": "How does an insurance claim work?",
+        "relevant_document_ids": [
+          "POL-INSURANCE-004"
+        ],
+        "retrieved_document_ids": [
+          "POL-INSURANCE-004"
+        ],
+        "arithmetic": "precision=1/1=1.000; recall=1/1=1.000",
+        "relevant_retrieved": 1,
+        "retrieved_documents": 1,
+        "relevant_documents": 1,
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      {
+        "query": "Can you renew my prescription?",
+        "relevant_document_ids": [
+          "POL-REFILL-005"
+        ],
+        "retrieved_document_ids": [
+          "POL-REFILL-005"
+        ],
+        "arithmetic": "precision=1/1=1.000; recall=1/1=1.000",
+        "relevant_retrieved": 1,
+        "retrieved_documents": 1,
+        "relevant_documents": 1,
+        "precision": 1.0,
+        "recall": 1.0
+      }
+    ],
+    "macro_precision": 1.0,
+    "macro_recall": 1.0
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "POL-CANCEL-002",
+  "title": "Cancellation and Rescheduling Window (Synthetic)",
+  "owner": "Capstone Policy Team",
+  "effective_date": "2026-01-01",
+  "review_date": "2027-01-01",
+  "version": "1.0",
+  "access_classification": "public",
+  "status": "current",
+  "source_location": "data/policies/cancellation-rescheduling.json",
+  "synthetic": true,
+  "topic": "cancellation-rescheduling",
+  "text": "Synthetic demo policy: patients should request cancellation or rescheduling at least 24 hours before the appointment when possible. Requests made closer to the appointment may require clinic staff assistance. This example is educational and does not state an actual Practo clinic rule."
+}

@@ -1,0 +1,14 @@
+{
+  "source_id": "POL-INSURANCE-004",
+  "title": "Insurance Claim Process (Synthetic)",
+  "owner": "Capstone Policy Team",
+  "effective_date": "2026-01-01",
+  "review_date": "2027-01-01",
+  "version": "1.0",
+  "access_classification": "public",
+  "status": "current",
+  "source_location": "data/policies/insurance-claims.json",
+  "synthetic": true,
+  "topic": "insurance-claim-process",
+  "text": "Synthetic demo policy: patients should check coverage and required documents with their insurer before the visit. The clinic can provide an itemized receipt or other available visit documents upon request. Claim approval and reimbursement are determined by the insurer, not by this support agent."
+}

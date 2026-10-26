@@ -1,0 +1,14 @@
+{
+  "source_id": "POL-HOME-012",
+  "title": "Home Visit Eligibility (Synthetic)",
+  "owner": "Capstone Policy Team",
+  "effective_date": "2026-01-01",
+  "review_date": "2027-01-01",
+  "version": "1.0",
+  "access_classification": "public",
+  "status": "current",
+  "source_location": "data/policies/home-visit.json",
+  "synthetic": true,
+  "topic": "home-visit-eligibility",
+  "text": "Synthetic demo policy: home visits may be available in selected locations and specialties subject to clinician availability. The clinic must confirm service area, timing, and any additional fee before an appointment is booked. This support prototype cannot create or modify a booking."
+}

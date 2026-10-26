@@ -1,0 +1,14 @@
+{
+  "source_id": "POL-FEES-003",
+  "title": "Consultation Fee Structure by Specialty (Synthetic)",
+  "owner": "Capstone Policy Team",
+  "effective_date": "2026-01-01",
+  "review_date": "2027-01-01",
+  "version": "1.0",
+  "access_classification": "public",
+  "status": "current",
+  "source_location": "data/policies/consultation-fees.json",
+  "synthetic": true,
+  "topic": "consultation-fee-structure",
+  "text": "Synthetic demo policy: consultation fees may vary by specialty, clinic, and appointment type. Example INR ranges for this dataset are General Medicine 300–800, Cardiology 700–2000, Dermatology 500–1500, Pediatrics 400–1200, and Orthopedics 600–1800. Confirm the final fee with the selected clinic before booking."
+}
