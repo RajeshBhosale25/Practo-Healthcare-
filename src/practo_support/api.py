@@ -10,6 +10,7 @@ from uuid import uuid4
 
 from fastapi import FastAPI, HTTPException, Request, WebSocket, WebSocketDisconnect
 from fastapi.concurrency import run_in_threadpool
+from fastapi.responses import RedirectResponse
 from pydantic import BaseModel, ConfigDict
 
 from practo_support.knowledge import POLICY_DIR, index_policy_collections
@@ -73,6 +74,10 @@ def create_app(service: SupportService | None = None) -> FastAPI:
         if application.state.support_service is None:
             application.state.support_service = _default_service()
         return application.state.support_service
+
+    @application.get("/", include_in_schema=False)
+    def root() -> RedirectResponse:
+        return RedirectResponse(url="/docs")
 
     @application.get("/health", response_model=HealthResponse)
     def health() -> HealthResponse:

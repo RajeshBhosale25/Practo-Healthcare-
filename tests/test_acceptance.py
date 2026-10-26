@@ -277,6 +277,14 @@ def test_fastapi_http_websocket_logging_and_disconnect_survival() -> None:
     assert "9876543210" not in json.dumps(records)
 
 
+def test_root_redirects_to_api_docs() -> None:
+    client = TestClient(create_app(SupportService(FakeRetriever())))
+    response = client.get("/")
+    assert response.status_code == 200
+    assert response.url.path == "/docs"
+    assert "swagger-ui" in response.text
+
+
 def test_add_document_http_endpoint(tmp_path, monkeypatch) -> None:
     monkeypatch.setattr(support_api, "POLICY_DIR", tmp_path)
     monkeypatch.setattr(

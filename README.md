@@ -113,11 +113,16 @@ The 15-query evaluation contains at least one query for each required knowledge-
 
 ## Run the API
 
-With the local index and calibration data prepared, start the API:
+With the local index and calibration data prepared, start the API from the project
+directory using the supported Python 3.12 interpreter. Keep this terminal open while
+using the API:
 
 ```powershell
-uvicorn practo_support.api:app --host 127.0.0.1 --port 8000
+py -3.12 -m uvicorn practo_support.api:app --host 127.0.0.1 --port 8000
 ```
+
+Open `http://127.0.0.1:8000/` to be redirected to the interactive API docs, or visit
+`http://127.0.0.1:8000/health` to check that the local service is running.
 
 Example request body for `POST /ask`:
 
